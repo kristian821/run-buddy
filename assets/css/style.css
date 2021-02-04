@@ -425,7 +425,7 @@ section {
     position: absolute;
     left: -29px;
     top: -3px;
-    background-image: radial-gradient(circle, var(var(--tertiary-color)), var(--secondary-color));
+    background-image: radial-gradient(circle, var(--tertiary-color), var(--secondary-color));
 }
 
 .checkbox-wrapper input:checked + label, .radio-wrapper input:checked + label {
